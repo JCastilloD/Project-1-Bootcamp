@@ -1,0 +1,6 @@
+# Joshua's Google Key
+gkey = "AIzaSyAwDyEwcf_ffX0otnRMJYklewZ9ywIkxJc"
+# Monica's Coneval Key
+coneval_key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1vbmljYW1jOTJAZ21haWwuY29tIiwicm9sZSI6IkV4dGVybm9zIiwibmJmIjoxNTc5ODM0NzUxLCJleHAiOjE1Nzk5MjExNTEsImlhdCI6MTU3OTgzNDc1MSwiaXNzIjoic2VsZiIsImF1ZCI6ImxvY2FsaG9zdDo4NCJ9.o0iwfBpv-vckFIY2nSfD66ismB4NpozVIWMztwaW5Ww"
+# Inegi_Key
+inegi_key = "8455939b-9726-bb8c-c70d-681609b40110"
