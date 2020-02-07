@@ -1,7 +1,7 @@
 # Project-1-Bootcamp
 
-## Project Title
-### To be or not to be: The impact of formal commerce on local poverty levels in State of Mexico
+## To be or not to be: The impact of formal commerce on local poverty levels in State of Mexico
+
 
 ### Team Members:
 - Mónica Mateos Cantú
